@@ -18,20 +18,20 @@ To run the Simulink Viewer project, you need to have the following installed:
 
 ## Installation
 
-1- Clone or download the Simulink Viewer project repository.
+- Clone or download the Simulink Viewer project repository.
 
-2- Ensure that you have set up your Java development environment with JDK and JavaFX.
+- Ensure that you have set up your Java development environment with JDK and JavaFX.
 
-3- Open the project in your preferred Java IDE.
+- Open the project in your preferred Java IDE.
 
 
 ## Usage
 
-1- Launch the application.
+- Launch the application.
 
-2- Click on the "Select File" button to browse and select the Simulink model file (MDL file) you want to view.
+- Click on the "Select File" button to browse and select the Simulink model file (MDL file) you want to view.
 
-3- The Simulink model will be loaded and displayed in a hierarchical structure.
+- The Simulink model will be loaded and displayed in a hierarchical structure.
 
 
 ## Example
@@ -39,9 +39,11 @@ To run the Simulink Viewer project, you need to have the following installed:
 Here's an example of how to use the Simulink Viewer:
 
 - Launch the applicatiion.
+
 ![image](https://github.com/Abdallahyx/Simulink-Viewer/assets/99212200/70206009-51f6-4c2f-877e-57f2797391b6)
 
 - Click "Select File" button and choose the mdl file you want to view.
+
 ![image](https://github.com/Abdallahyx/Simulink-Viewer/assets/99212200/7aeeed1f-4269-4907-ac11-036e601a1baf)
 
 
