@@ -12,20 +12,27 @@ Simulink Viewer is a JavaFX project that allows you to load and parse Simulink m
 
 To run the Simulink Viewer project, you need to have the following installed:
 
-Java Development Kit (JDK) 8 or above
-JavaFX SDK
+- Java Development Kit (JDK) 8 or above
+
+- JavaFX SDK
 
 ## Installation
 
-Clone or download the Simulink Viewer project repository.
-Ensure that you have set up your Java development environment with JDK and JavaFX.
-Open the project in your preferred Java IDE.
+1- Clone or download the Simulink Viewer project repository.
+
+2- Ensure that you have set up your Java development environment with JDK and JavaFX.
+
+3- Open the project in your preferred Java IDE.
+
 
 ## Usage
 
 1- Launch the application.
+
 2- Click on the "Select File" button to browse and select the Simulink model file (MDL file) you want to view.
+
 3- The Simulink model will be loaded and displayed in a hierarchical structure.
+
 
 ## Example
 
