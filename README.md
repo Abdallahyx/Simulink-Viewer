@@ -47,13 +47,5 @@ Here's an example of how to use the Simulink Viewer:
 ![image](https://github.com/Abdallahyx/Simulink-Viewer/assets/99212200/7aeeed1f-4269-4907-ac11-036e601a1baf)
 
 
-## Contributions
-
-- Abdallah Yasser Mohamed Abdallah (2001034)
-- Abdulrahman Ibrahim Abdulaziz Salem (2000925)
-- Ahmed Wael Salah (2000041)
-- Omar Ahmed Mohammed AbdelMaksoud (2000389)
-- Marten Ehab Fouad Askander (2101642)
-
 ## License
 This project is licensed under the MIT License.
